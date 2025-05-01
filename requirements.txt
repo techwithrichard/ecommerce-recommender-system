@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+transformers
+torch
+spacy
+nltk
+matplotlib
+seaborn
+sqlalchemy
+psycopg2-binary
+apache-airflow
